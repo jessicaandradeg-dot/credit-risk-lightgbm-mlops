@@ -1,0 +1,24 @@
+# Python virtual environment
+.venv/
+venv/
+ENV/
+
+# Byte-compiled / Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Pytest / Coverage
+.pytest_cache/
+.coverage
+
+# MLflow tracking data & artifacts
+mlruns/
+*.db
+
+# Data files
+data/*.csv
+data/*.parquet
+
+# VS Code
+.vscode/
