@@ -96,23 +96,6 @@ credit-risk-lightgbm-mlops/
 └── .gitignore
 ```
 
-## Relevância para vagas
-
-Este projeto se alinha diretamente a vagas de:
-
-- Machine Learning
-- Modelagem de risco
-- Credit analytics
-- MLOps
-- Data Science aplicada a finanças
-- Decision intelligence
-
-## Próximos passos recomendados
-
-- incluir benchmark gráfico de threshold vs custo financeiro
-- publicar tabela de comparação entre modelos
-- adicionar monitoramento de drift e performance em produção
-- documentar impacto operacional da política de aprovação
 
 ## Link para artigo / benchmark / tabela
 
@@ -121,8 +104,4 @@ Este projeto se alinha diretamente a vagas de:
 - [Notebook de tuning e validação](#)
 - [Comparativo de políticas de corte](#)
 
-## Mensagem para recrutadores
 
-Este projeto vai além de treinamento de modelo: ele traduz a previsão em política de decisão financeira. A solução foi desenhada para refletir o custo real do erro em crédito e mostrar que a otimização técnica deve estar alinhada aos objetivos de negócio.
-
-Além disso, inclui pipeline reprodutível, experiment tracking e testes, o que reforça maturidade em ML e MLOps.
